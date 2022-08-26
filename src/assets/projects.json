@@ -1,0 +1,45 @@
+[
+  {
+    "name": "AlertaCoin",
+    "alias": "alertacoin",
+    "description": "Este proyecto permite dar seguimiento a multiples criptomonedas y ademas establecer alertas de precio mínimo y máximo.\nEste proyecto obtiene los datos desde la API WebSocket de Binance.com.\n\n",
+    "tags": ["vuejs", "javascript", "html"],
+    "urls": {
+      "live": "https://bayusec.github.io/alertaCoin/",
+      "github": "https://github.com/bayusec/alertaCoin"
+    },
+    "img": ""
+  },
+  {
+    "name": "Portfolio",
+    "alias": "portfolio",
+    "description": "Proyecto portfolio, creado desde cero con vuejs, html, tailwind, JS y pinia",
+    "tags": ["vuejs", "javascript", "html"],
+    "urls": {
+      "live": "",
+      "github": ""
+    },
+    "img": ""
+  },
+  {
+    "name": "Meme Rancho",
+    "alias": "memerancho",
+    "description": "Aplicación nativa de android que permite ver memes, darles like, filtrarlos por categoria, compartirlos, etc.\n\nEl proyecto consta de 4 partes:\n\n  ➤La app cliente para android hecha kotlin\n  ➤La base datos en Firestore (Firebase).\n  ➤El panel de control local hecho en Laravel para categorizar y agregar contenido a firebase.\n  ➤Los scripts en python que permiten obtener contenido de diversas fuentes.",
+    "tags": ["kotlin","Android","Firebase","Laravel","Mysql","Python"],
+    "urls": {
+      "live": "https://play.google.com/store/apps/details?id=com.bayudev.memerancho",
+      "github": ""
+    },
+    "img": "memerancho.png"
+  },
+  {
+    "name": "Instagram Story Downloader",
+    "alias": "instagramstorydownloader",
+    "description": "Pequeña clase en python que permite iniciar sesión en una cuenta de instagram y obtener las historias de sus contactos para \npoder verlas sin dejar ningun rastro de visualización.",
+    "tags": ["python"],
+    "urls": {
+      "live": "",
+      "github": "https://github.com/bayusec/instagram_downloader"
+    }
+  }
+]

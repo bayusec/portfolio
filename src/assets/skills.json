@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Frontend",
+    "alias": "frontend",
+    "skills": [
+      "vuejs",
+      "javascript",
+      "html5",
+      "css3",
+      "pinia",
+      "tailwindcss",
+      "kotlin"
+    ]
+  },
+  {
+    "name": "Backend",
+    "alias": "backend",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "Mysql",
+      "Firebase",
+      "SqlServer"
+    ]
+  },
+  {
+    "name": "Tools",
+    "alias": "tools",
+    "skills": [
+      "Linux",
+      "Git",
+      "Postman",
+      "Python",
+      "AndroidStudio",
+      "PhpStorm",
+      "Pycharm",
+      "VIM",
+      "NPM",
+      "AVD"
+    ]
+  }
+]
