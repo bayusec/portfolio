@@ -8,11 +8,7 @@
           <pre class="text-left mt-5 whitespace-pre-wrap font-semibold font-sans">
 Soy Jean P. V. , desarrollador Junior Full-Stack, cuento con 3 años de experiencia en desarrollo web.
 Mi enfoque es el Backend, sin embargo en el ultimo tiempo me he metido al mundo del Front-end.
-Disponible para trabajo remoto o presencial, actualmente resido en Chile pero estoy abierto a una reubicación
-en caso de requerirse.
-
-
-
+Disponible para trabajo remoto o presencial, actualmente resido en Chile pero estoy abierto a una reubicación en caso de requerirse.
 
 Entre Mis intereses relacionados al mundo del desarrollo destaco:
 

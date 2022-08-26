@@ -16,8 +16,8 @@
     "description": "Proyecto portfolio, creado desde cero con vuejs, html, tailwind, JS y pinia",
     "tags": ["vuejs", "javascript", "html"],
     "urls": {
-      "live": "",
-      "github": ""
+      "live": "https://bayusec.github.io/portfolio/",
+      "github": "https://github.com/bayusec/portfolio"
     },
     "img": ""
   },
