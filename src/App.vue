@@ -39,13 +39,6 @@
         </div>
       </div>
 
-
-<!--      <div ref="settings" id="btn_settings" class="justify-self-start sm:justify-self-end sm:my-auto">-->
-<!--          <GitsAnimation2 class="text-md ">-->
-<!--            <router-link to="/" class="border rounded text-white bg-transparent hover:bg-gitsLila hover:border-white hover:text-black p-3 hover:border-transparent">Tools</router-link>-->
-<!--          </GitsAnimation2>-->
-<!--      </div>-->
-
     </div>
 
     <hr class="separator"/>
@@ -127,11 +120,6 @@ html, body {
 .header {
   background: #12121287 !important;
 }
-
-/*nav {*/
-/*  padding: 30px;*/
-/*}*/
-
 
 
 nav a.router-link-exact-active {

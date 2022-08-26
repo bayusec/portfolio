@@ -59,9 +59,6 @@ export default {
 
 .gits2 {
   background: #000;
-  /*width: 100vw;*/
-  /*max-width: 90vw;*/
-  /*height: 50vh;*/
   color: #0f0;
   margin: auto;
 }

@@ -19,16 +19,5 @@ export default {
   name: "CardArticleHorizontal",
   props: ['urlImg'],
   components: {GitsAnimation2},
-  // data(){
-  //   return{
-  //     color:'#393838'
-  //   }
-  // }
 }
 </script>
-
-<style scoped>
-/*.bgCard{*/
-/*  background: v-bind('color');*/
-/*}*/
-</style>

@@ -49,17 +49,4 @@ export default {
   background: #1c3336;
   margin: 100px;
 }
-
-/*:deep(.gitsHomeTexto), :deep(.gitsHomeTransicion) {*/
-/*  color: rgba(25, 102, 25, 0.58) !important;*/
-/*  background: #529fa9 !important;*/
-/*  box-shadow: 0px 0px 17px -5px #fafafa;*/
-/*  font-size: 1.5rem;*/
-/*  padding: 10px;*/
-/*}*/
-
-/*:deep(.gitsTexto,.gitsTransicion){*/
-/*  color: #1b637b !important;*/
-/*  background: #529fa9 !important;*/
-/*}*/
 </style>
